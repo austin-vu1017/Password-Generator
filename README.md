@@ -1,4 +1,4 @@
-**Password Generator**
+# Password Generator
 
 Created using Python using Random module. User can choose length and number of passwords to generate.
 Furthermore, users can choose to exlucde certain characters e.g. special, uppercase, number from password. 
